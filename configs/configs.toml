@@ -1,0 +1,7 @@
+[bot]
+  bot_id = "660697313"
+  api_key = "AAHmZ43BVU0ZjLI1JoRIlI6ySsABsUIoo70"
+[database]
+  url = "jdbc:postgresql://localhost/songs"
+  user = "ptuser"
+  password = "ptpass"
